@@ -10,6 +10,8 @@ Instruções para desenvolvimento dos exercícios:
 + Resolva cada exercício na pasta correspondente, mantendo a organização dos arquivos.
 + Realize commits frequentes, sempre que houver progresso no desenvolvimento de cada questão. Isso facilita o acompanhamento da sua evolução e o versionamento do código.
 + Mantenha mensagens de commit claras e objetivas, indicando o que foi feito (ex: Implementa função de ordenação, Corrige bug na verificação de primo, etc).
++ Envie um e-mail para [kennedy.lopes@ufersa.edu.br] com o assunto: **"Meu Perfil do GitHub"**. No corpo do e-mail, inclua as informações do seu perfil do GitHub e o link para o repositório onde as respostas das questões serão armazenadas.
++ Lembre-se: esta atividade é **individual** e deve ser realizada de forma independente.
 
 
 ## 🔧 Funções e Modularização
@@ -76,3 +78,5 @@ Instruções para desenvolvimento dos exercícios:
     Desenvolva um jogo simples da forca no terminal, usando vetores e controle de fluxo.
 
 ---
+
+[contactEmail]: mailto:kennedy.lopes@ufersa.edu.br
