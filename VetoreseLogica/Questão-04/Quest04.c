@@ -3,7 +3,6 @@
 
 //array para armazenar os dez numeros
 int arr[10];
-
 //array para ver se os numeros ja foi ou nao contados
 int conf[10]={0,0,0,0,0,0,0,0,0,0};
 
