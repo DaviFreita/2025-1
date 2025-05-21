@@ -21,4 +21,5 @@ int somaDiagonal(int matriz[4][4]){
         soma+=matriz[i][i];
     }
     return(soma);
+    //kjks
 }
